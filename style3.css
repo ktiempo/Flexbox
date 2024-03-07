@@ -1,0 +1,29 @@
+.borderLine{
+    border: 3px solid #aa1c89;
+    margin-top: 5px
+}
+
+header{
+    width:99.7%;
+    height: 100px;
+}
+
+main{
+    width: 57.7%;
+    height: 100vh;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+aside{ 
+    float: left;
+    width: 20%;
+    height: 100vh;
+}
+
+footer{
+    width: 99.7%;
+    height: 100px;
+    float: left;
+}
