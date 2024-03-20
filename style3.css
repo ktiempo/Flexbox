@@ -1,6 +1,9 @@
+
 .borderLine{
     border: 3px solid #aa1c89;
     margin-top: 5px;
+    display: flex;
+    flex-direction: column;
 }
 
 header{
